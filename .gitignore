@@ -1,0 +1,20 @@
+# OULAD data
+data/OULAD
+data/custom
+
+# Mac
+.DS_STORE
+
+# R files
+.RData
+.Rhistory
+
+# LaTeX files
+*.toc
+*.log
+*.aux
+*.bbl
+*synctex.gz
+*.blg
+.Rproj.user
+*.Rproj
