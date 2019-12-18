@@ -1,5 +1,5 @@
 # CS773 - Data Mining Course Project
-Repository for the cs773 Data Mining and Security course project at Old Dominion University
+Repository for the CS773 Data Mining and Security course project at Old Dominion University
 
 [Submitted Report](./docs/submission/main.pdf)
 
